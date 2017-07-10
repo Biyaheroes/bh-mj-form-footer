@@ -1,0 +1,29 @@
+{
+  "name": "bh-mj-form-footer",
+  "description": "Biyaheroes MJML Form Footer Component",
+  "main": ".filter.js",
+  "authors": [
+    "Biyaheroes Developer <developers@biyaheroes.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "biyaheroes",
+    "mjml",
+    "form-footer",
+    "bh-mj-form-footer"
+  ],
+  "homepage": "https://github.com/Biyaheroes/bh-mj-form-footer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "falzy": "^0.20.0",
+    "jquery": "^3.2.1",
+    "react": "^15.6.1",
+    "wichevr": "^0.13.0"
+  }
+}
