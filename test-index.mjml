@@ -1,7 +1,0 @@
-<mjml>
-	<mj-body>
-		<mj-container>
-			<mj-form-footer label="This is a form footer"/>
-		</mj-container>
-	</mj-body>
-</mjml>
