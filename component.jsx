@@ -4,7 +4,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import FormFooter from "./form-footer.js";
+import FormFooter from "./form-footer.module.jsx";
 
 ReactDOM.render( 
 	<FormFooter

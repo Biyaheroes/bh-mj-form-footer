@@ -1,7 +1,8 @@
 {
 	"name": "bh-mj-form-footer",
 	"description": "Biyaheroes MJML Form Footer Component",
-	"main": ".filter.js",
+	"main": "issue.deploy.js",
+	"support": "issue.module.jsx",
 	"authors": [
 		"Biyaheroes Developer <developers@biyaheroes.com>"
 	],
